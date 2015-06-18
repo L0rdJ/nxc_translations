@@ -1,0 +1,12 @@
+img.nxc-translations-icon
+{
+	cursor: pointer;
+	cursor: hand;
+}
+
+table.nxc-translations-edit-message tbody td
+{
+	text-align: left;
+	vertical-align: top;
+	padding: 0.25em;
+}
